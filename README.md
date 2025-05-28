@@ -4,11 +4,11 @@
 </div>
 
 <h1 align="center">
-  <code> L1nkz Cs2 </code>
+  <code> L1nkzCs2 Developer </code>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Optimizing+L1Nkz+bit.;L1Nkz+movement+in+CS2.;L1Nkz+autoexecs+like+code." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Optimizing+L1Nkz+.;L1Nkz+movement+in+CS2.;L1Nkz+autoexec+code." alt="Typing animation" />
 </p>
 
 
@@ -17,28 +17,43 @@
 
 <!-- PROFILE README - L1nkz | Engineered for CS2 -->
 
+💻 Desarrollador |  Configuraciónes Avanzadas para CS2
 
+
+Soy un desarrollador enfocado en crear herramientas de configuraciónes de alto impacto para Counter-Strike 2, fusionando experiencia en juegos con precisión técnica. Mis proyectos giran en torno a la optimización del rendimiento, mejora del control del jugador y automatización de procesos de setup para jugadores competitivos y casuales.
+
+🔍 Aquí encontrarás:
+
+    🧠 Archivos autoexec.cfg diseñados para movimiento preciso y coherencia táctica
+
+    ⚙️ Scripts y configuraciones para lograr FPS máximos, baja latencia y claridad visual
+
+    📂 Setups modulares para una implementación rápida en distintos sistemas
+
+    🔧 Experimentos profundos con opciones de lanzamiento, ajustes de red y detalles del motor de CS2
+
+Ya sea que busques una ventaja competitiva o entender el funcionamiento interno de CS2, mis proyectos están diseñados para ofrecer soluciones limpias, eficientes y probadas en juego.
 
 ---
 
 👤 L1nkz
 ```bash
-├── system.dev
-├── cfg.architect
+├── System.L1nkz
+├── Autoexec.cfg
 ```
 ⚙️ Projects/CS2/
 
 ```bash
-📁 cfg
-│  ├── autoexec.cfg       # Full performance & accuracy
+📁 CFG
+│  ├── autoexec.cfg       # Full performance 
 │  ├── movement.cfg       # Strafing & jump binds
-│  └── netboost.cfg       # configs
+│  └── 180º.cfg           # configs
 
 ```
 
 ---
 
-⚙️ System Environment
+⚙️ System PC
 
 ```ini
 [ENVIRONMENT]
