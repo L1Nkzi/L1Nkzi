@@ -45,7 +45,6 @@
 OS           = Windows 10 Lite / KernelOS
 RAM          = 16GB DDR4 3200MHz
 GPU          = AMD RX 580 8GB
-MONITORING   = LatencyMon, NetLimiter, MSI Utility
 CFG_EDITOR   = VSCode + CFG Highlighter
 ```
 ---
