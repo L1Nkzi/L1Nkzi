@@ -17,7 +17,7 @@
 
 <!-- PROFILE README - L1nkz | Engineered for CS2 -->
 
-💻 Desarrollador |  Configuraciónes Avanzadas para CS2
+💻|  Configuraciónes Avanzadas para CS2
 
 
 Soy un desarrollador enfocado en crear herramientas de configuraciónes de alto impacto para Counter-Strike 2, fusionando experiencia en juegos con precisión técnica. Mis proyectos giran en torno a la optimización del rendimiento, mejora del control del jugador y automatización de procesos de setup para jugadores competitivos y casuales.
