@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">
-  <code> L1nkzCs2 Developer </code>
+  <code> L1nkzCs2 </code>
 </h1>
 
 <p align="center">
