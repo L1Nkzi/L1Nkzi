@@ -1,6 +1,6 @@
 </br></br>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=+L1Nkz.;L1Nkz+movement+in+CS2.;L1Nkz+autoexec+code." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=+L1Nkz.;L1Nkz+movement+in+Cs2.;L1Nkz+autoexec+code." alt="Typing animation" />
 </p>
 
  </br>
