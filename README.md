@@ -6,7 +6,7 @@
  </br>
 <p align="center">
 <samp>
-Hola Soy L1Nkz Creador de Mi Autoexec.cfg Cs2 
+Performance Hub 
 </samp>
 </br></br>
 <samp>
@@ -16,7 +16,7 @@ Bienvenido a mi configuración personalizada de autoexec.cfg para Counter-Strike
 </samp>
 </br></br>
 <samp>
-Este archivo reúne todos los ajustes que uso personalmente como jugador: una combinación de rendimiento, estilo y practicidad. Está diseñado especialmente para jugadores que, como yo, priorizan el Movement rápido, la claridad visual, y una jugabilidad limpia, sin scripts injustos ni efectos innecesarios.
+
 </samp>
 </p>
 <samp>
