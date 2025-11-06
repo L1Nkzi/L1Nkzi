@@ -25,7 +25,7 @@ Bienvenido a mi configuración personalizada de autoexec.cfg para Counter-Strike
 
   
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&color=%23FF0000&lines=FPS;Rendimiento+AMD;Optimizacion+on+Windows" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&color=%2300FF7F&lines=FPS;Rendimiento+AMD;Optimizacion+Windows" alt="Typing animation" />
 </p>
 
 
